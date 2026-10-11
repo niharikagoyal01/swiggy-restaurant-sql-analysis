@@ -1,0 +1,11 @@
+cuisine,avg_rating,restaurant_count
+"Ice Cream,Desserts",4.36,1046
+Ice Cream,4.32,501
+"Desserts,Ice Cream",4.26,584
+"Sweets,Desserts",4.25,146
+"Healthy Food,Salads",4.19,225
+"Bakery,Beverages",4.18,183
+"Burgers,Beverages",4.15,219
+"Ice Cream,Bakery",4.14,120
+"Desserts,Beverages",4.11,477
+"Desserts,Bakery",4.11,483
